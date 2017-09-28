@@ -6,4 +6,4 @@ All of statistics
 
 ## Chapter 2. Random Variables
 
-- [Visualizing Distributions](https://github.com/GunhoChoi/AOS/blob/master/distributions/Distributions.ipynb)
+[Visualizing Distributions](https://github.com/GunhoChoi/AOS/blob/master/distributions/Distributions.ipynb)
